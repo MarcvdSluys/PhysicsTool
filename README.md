@@ -9,7 +9,7 @@ A simple Python package to do basic physics calculations.
 
 The code is being developed by [Marc van der Sluys](https://marc.vandersluys.nl) of the Department of Physics
 at Utrecht University in The Netherlands, and the Netherlands Institute of Nuclear and High-Energy Physics
-(Nikhef) in Amsterdam.  The evTool package can be used under the conditions of the [EUPL
+(Nikhef) in Amsterdam.  The physicsTool package can be used under the conditions of the [EUPL
 1.2](https://www.eupl.eu/1.2/en/) licence.
 
 
