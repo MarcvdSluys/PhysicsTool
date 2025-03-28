@@ -11,7 +11,7 @@ version = "0.0.0"
 authors = [ { name="Marc van der Sluys", email="git@vandersluys.nl" } ]
 description = "A simple Python package to do basic physics calculations."
 readme   = "README.md"
-license  = {text = "EUPL 1.2"}
+license  = "EUPL-1.2"
 keywords = ["physics","technology","natural sciences"]
 dependencies = ["numpy"]
 
@@ -21,7 +21,6 @@ classifiers = [
         "Intended Audience :: Developers",
         "Intended Audience :: Education",
         "Intended Audience :: Science/Research",
-        "License :: OSI Approved :: European Union Public Licence 1.2 (EUPL 1.2)",
         "Natural Language :: English",
         "Operating System :: OS Independent",
         "Programming Language :: Python :: 3",
