@@ -7,7 +7,7 @@ packages = ["physicstool"]
 
 [project]
 name = "physicstool"
-version = "0.0.0"
+version = "0.0.1"
 authors = [ { name="Marc van der Sluys", email="git@vandersluys.nl" } ]
 description = "A simple Python package to do basic physics calculations."
 readme   = "README.md"
